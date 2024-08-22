@@ -1,0 +1,14 @@
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\EventConcept\bin\Debug\net8.0\EventConcept.exe
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\EventConcept\bin\Debug\net8.0\EventConcept.deps.json
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\EventConcept\bin\Debug\net8.0\EventConcept.runtimeconfig.json
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\EventConcept\bin\Debug\net8.0\EventConcept.dll
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\EventConcept\bin\Debug\net8.0\EventConcept.pdb
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\EventConcept\obj\Debug\net8.0\EventConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\EventConcept\obj\Debug\net8.0\EventConcept.AssemblyInfoInputs.cache
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\EventConcept\obj\Debug\net8.0\EventConcept.AssemblyInfo.cs
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\EventConcept\obj\Debug\net8.0\EventConcept.csproj.CoreCompileInputs.cache
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\EventConcept\obj\Debug\net8.0\EventConcept.dll
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\EventConcept\obj\Debug\net8.0\refint\EventConcept.dll
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\EventConcept\obj\Debug\net8.0\EventConcept.pdb
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\EventConcept\obj\Debug\net8.0\EventConcept.genruntimeconfig.cache
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\EventConcept\obj\Debug\net8.0\ref\EventConcept.dll

@@ -1,0 +1,14 @@
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\WhyDelegatesdemo\bin\Debug\net8.0\WhyDelegatesdemo.exe
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\WhyDelegatesdemo\bin\Debug\net8.0\WhyDelegatesdemo.deps.json
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\WhyDelegatesdemo\bin\Debug\net8.0\WhyDelegatesdemo.runtimeconfig.json
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\WhyDelegatesdemo\bin\Debug\net8.0\WhyDelegatesdemo.dll
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\WhyDelegatesdemo\bin\Debug\net8.0\WhyDelegatesdemo.pdb
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\WhyDelegatesdemo\obj\Debug\net8.0\WhyDelegatesdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\WhyDelegatesdemo\obj\Debug\net8.0\WhyDelegatesdemo.AssemblyInfoInputs.cache
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\WhyDelegatesdemo\obj\Debug\net8.0\WhyDelegatesdemo.AssemblyInfo.cs
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\WhyDelegatesdemo\obj\Debug\net8.0\WhyDelegatesdemo.csproj.CoreCompileInputs.cache
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\WhyDelegatesdemo\obj\Debug\net8.0\WhyDelegatesdemo.dll
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\WhyDelegatesdemo\obj\Debug\net8.0\refint\WhyDelegatesdemo.dll
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\WhyDelegatesdemo\obj\Debug\net8.0\WhyDelegatesdemo.pdb
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\WhyDelegatesdemo\obj\Debug\net8.0\WhyDelegatesdemo.genruntimeconfig.cache
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\WhyDelegatesdemo\obj\Debug\net8.0\ref\WhyDelegatesdemo.dll

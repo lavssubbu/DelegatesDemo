@@ -1,0 +1,14 @@
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Day4DelegatesDemo\bin\Debug\net8.0\Day4DelegatesDemo.exe
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Day4DelegatesDemo\bin\Debug\net8.0\Day4DelegatesDemo.deps.json
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Day4DelegatesDemo\bin\Debug\net8.0\Day4DelegatesDemo.runtimeconfig.json
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Day4DelegatesDemo\bin\Debug\net8.0\Day4DelegatesDemo.dll
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Day4DelegatesDemo\bin\Debug\net8.0\Day4DelegatesDemo.pdb
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Day4DelegatesDemo\obj\Debug\net8.0\Day4DelegatesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Day4DelegatesDemo\obj\Debug\net8.0\Day4DelegatesDemo.AssemblyInfoInputs.cache
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Day4DelegatesDemo\obj\Debug\net8.0\Day4DelegatesDemo.AssemblyInfo.cs
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Day4DelegatesDemo\obj\Debug\net8.0\Day4DelegatesDemo.csproj.CoreCompileInputs.cache
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Day4DelegatesDemo\obj\Debug\net8.0\Day4DelegatesDemo.dll
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Day4DelegatesDemo\obj\Debug\net8.0\refint\Day4DelegatesDemo.dll
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Day4DelegatesDemo\obj\Debug\net8.0\Day4DelegatesDemo.pdb
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Day4DelegatesDemo\obj\Debug\net8.0\Day4DelegatesDemo.genruntimeconfig.cache
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Day4DelegatesDemo\obj\Debug\net8.0\ref\Day4DelegatesDemo.dll

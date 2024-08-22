@@ -1,0 +1,14 @@
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Multicastdel\bin\Debug\net8.0\Multicastdel.exe
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Multicastdel\bin\Debug\net8.0\Multicastdel.deps.json
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Multicastdel\bin\Debug\net8.0\Multicastdel.runtimeconfig.json
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Multicastdel\bin\Debug\net8.0\Multicastdel.dll
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Multicastdel\bin\Debug\net8.0\Multicastdel.pdb
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Multicastdel\obj\Debug\net8.0\Multicastdel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Multicastdel\obj\Debug\net8.0\Multicastdel.AssemblyInfoInputs.cache
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Multicastdel\obj\Debug\net8.0\Multicastdel.AssemblyInfo.cs
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Multicastdel\obj\Debug\net8.0\Multicastdel.csproj.CoreCompileInputs.cache
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Multicastdel\obj\Debug\net8.0\Multicastdel.dll
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Multicastdel\obj\Debug\net8.0\refint\Multicastdel.dll
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Multicastdel\obj\Debug\net8.0\Multicastdel.pdb
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Multicastdel\obj\Debug\net8.0\Multicastdel.genruntimeconfig.cache
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\Multicastdel\obj\Debug\net8.0\ref\Multicastdel.dll

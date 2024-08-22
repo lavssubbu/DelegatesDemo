@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Day4DelegatesDemo/1.0.0": {
+        "runtime": {
+          "Day4DelegatesDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day4DelegatesDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
