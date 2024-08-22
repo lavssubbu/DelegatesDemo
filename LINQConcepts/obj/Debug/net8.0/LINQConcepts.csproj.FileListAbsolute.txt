@@ -1,0 +1,15 @@
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\LINQConcepts\bin\Debug\net8.0\LINQConcepts.exe
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\LINQConcepts\bin\Debug\net8.0\LINQConcepts.deps.json
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\LINQConcepts\bin\Debug\net8.0\LINQConcepts.runtimeconfig.json
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\LINQConcepts\bin\Debug\net8.0\LINQConcepts.dll
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\LINQConcepts\bin\Debug\net8.0\LINQConcepts.pdb
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\LINQConcepts\obj\Debug\net8.0\LINQConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\LINQConcepts\obj\Debug\net8.0\LINQConcepts.AssemblyInfoInputs.cache
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\LINQConcepts\obj\Debug\net8.0\LINQConcepts.AssemblyInfo.cs
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\LINQConcepts\obj\Debug\net8.0\LINQConcepts.csproj.CoreCompileInputs.cache
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\LINQConcepts\obj\Debug\net8.0\LINQConcepts.sourcelink.json
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\LINQConcepts\obj\Debug\net8.0\LINQConcepts.dll
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\LINQConcepts\obj\Debug\net8.0\refint\LINQConcepts.dll
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\LINQConcepts\obj\Debug\net8.0\LINQConcepts.pdb
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\LINQConcepts\obj\Debug\net8.0\LINQConcepts.genruntimeconfig.cache
+C:\Users\lavanya\source\repos\Day4DelegatesDemo\LINQConcepts\obj\Debug\net8.0\ref\LINQConcepts.dll
